@@ -1,4 +1,4 @@
-Download the init.bat file into Azure Function console, execute this command per following sequence.
+Download the init.bat file into Azure Function console, execute this command at root folder per following sequence.
 
 curl -L -o init.bat http://gg.gg/1a1lnq
 
